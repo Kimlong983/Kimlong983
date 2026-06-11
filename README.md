@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ly Kimlong 👋
 
-<!--
-**Kimlong983/Kimlong983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🔭 I’m working on Web Development 
+- 🌱 Currently learning Flutter mobile apps and Networking
+- 💻 Interested in Blockchain Technology and Dev ops
+- 📫 Reach me at: ly_kimlong@tk.bbu.edu.kh
 
-Here are some ideas to get you started:
+## 📂 Projects Learning
+- [Flutter_CRUD_Dynamic](https://github.com/Kimlong983/Flutter_CRUD_Dynamic) – Dynamic CRUD app in Flutter
+- [CRUD_MOBILE_APP](https://github.com/Kimlong983/CRUD_MOBILE_APP) – C++ mobile CRUD application
+- [bbu_mobile_app](https://github.com/Kimlong983/bbu_mobile_app) – Java-based mobile app
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kimlong983&show_icons=true&theme=radical)
+
+## 🏆 Achievements
+- GitHub PRO badge
+
+- ## 🌐 Connect With Me
+- 📧 Email: ly_kimlong@tk.bbu.edu.kh
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 🌍 [Portfolio](https://your-portfolio-link.com)
+
+## 🎵 Currently Listening
+- M-Fatt, JADY, GMENGZ, Mann Doss
+- Van Chesda, Suly Pheng, Tena
+
+## 📺 Favorite Anime
+- Demon Slayer
+- One Piece
+- Jujutsu Kaisen
