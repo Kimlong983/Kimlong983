@@ -18,9 +18,9 @@
 - GitHub PRO badge
 
 - ## 🌐 Connect With Me
-- 📧 Email: ly_kimlong@tk.bbu.edu.kh
-- 💼 [LinkedIn](https://www.linkedin.com/in/kimlong-ly-9765323b6/)
-- 🌍 [Portfolio](https://your-portfolio-link.com)
+- 📧 Email : ly_kimlong@tk.bbu.edu.kh
+- 💼 [LinkedIn] : (https://www.linkedin.com/in/kimlong-ly-9765323b6/)
+- 🌍 [Portfolio] : (https://your-portfolio-link.com)
 
 ## 🎵 Currently Listening
 - M-Fatt, JADY, GMENGZ, Mann Doss
