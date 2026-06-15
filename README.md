@@ -19,7 +19,7 @@
 
 - ## 🌐 Connect With Me
 - 📧 Email: ly_kimlong@tk.bbu.edu.kh
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link](https://www.linkedin.com/in/kimlong-ly-9765323b6/))
 - 🌍 [Portfolio](https://your-portfolio-link.com)
 
 ## 🎵 Currently Listening
